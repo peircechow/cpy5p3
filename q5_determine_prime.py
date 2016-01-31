@@ -15,7 +15,7 @@ if start_function=="yes":
             counter+=1
             n+=1
             i=2
-            if counter==1000000000000000000000000000000000000000000:
+            if counter==1000:
                 x=False
             elif counter%10==0:
                 print("\n")
